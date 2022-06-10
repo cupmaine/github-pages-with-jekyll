@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Home"
 ---
 
 My final project website for AP CSP.
